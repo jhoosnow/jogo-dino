@@ -1,2 +1,2 @@
 # jogo-dino
-O background está diferente do que foi feito na DIO.
+Jogo do dino do chrome, feito em JS, HTML e CSS
