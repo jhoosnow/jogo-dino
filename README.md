@@ -1,2 +1,2 @@
 # jogo-dino
-O background está diferente! do que foi feito na DIO.
+O background está diferente do que foi feito na DIO.
